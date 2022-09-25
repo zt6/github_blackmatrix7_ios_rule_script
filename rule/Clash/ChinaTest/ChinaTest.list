@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-09-25 02:32:49
+# UPDATED: 2022-09-26 02:33:19
 # DOMAIN: 87
 # DOMAIN-KEYWORD: 10
-# DOMAIN-SUFFIX: 66293
+# DOMAIN-SUFFIX: 66334
 # IP-CIDR: 10
 # IP-CIDR6: 4
-# TOTAL: 66404
+# TOTAL: 66445
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdp.cloud.unity3d.com
@@ -2798,7 +2798,6 @@ DOMAIN-SUFFIX,22doc.com
 DOMAIN-SUFFIX,22edu.com
 DOMAIN-SUFFIX,22ff.com
 DOMAIN-SUFFIX,22hd.com
-DOMAIN-SUFFIX,22hyk.com
 DOMAIN-SUFFIX,22ja.com
 DOMAIN-SUFFIX,22k9.com
 DOMAIN-SUFFIX,22lianmeng.com
@@ -4151,7 +4150,6 @@ DOMAIN-SUFFIX,4493.com
 DOMAIN-SUFFIX,44971.com
 DOMAIN-SUFFIX,44dt.com
 DOMAIN-SUFFIX,44england.com
-DOMAIN-SUFFIX,44hyk.com
 DOMAIN-SUFFIX,44pd.com
 DOMAIN-SUFFIX,44pq.co
 DOMAIN-SUFFIX,44vs.com
@@ -5329,7 +5327,6 @@ DOMAIN-SUFFIX,55haitao.com
 DOMAIN-SUFFIX,55hl.com
 DOMAIN-SUFFIX,55hl.net
 DOMAIN-SUFFIX,55home.com
-DOMAIN-SUFFIX,55hyk.com
 DOMAIN-SUFFIX,55i8.com
 DOMAIN-SUFFIX,55idc.com
 DOMAIN-SUFFIX,55jisu.com
@@ -6608,6 +6605,7 @@ DOMAIN-SUFFIX,8006511.com
 DOMAIN-SUFFIX,8006tu.com
 DOMAIN-SUFFIX,800820.net
 DOMAIN-SUFFIX,8008202191.com
+DOMAIN-SUFFIX,8008205555.com
 DOMAIN-SUFFIX,800app.com
 DOMAIN-SUFFIX,800bamboo.com
 DOMAIN-SUFFIX,800best.com
@@ -6635,7 +6633,6 @@ DOMAIN-SUFFIX,80800.vip
 DOMAIN-SUFFIX,8080i.com
 DOMAIN-SUFFIX,8081.net
 DOMAIN-SUFFIX,80881.com
-DOMAIN-SUFFIX,808cdn.com
 DOMAIN-SUFFIX,808w.com
 DOMAIN-SUFFIX,8090.com
 DOMAIN-SUFFIX,8090.pk
@@ -7891,7 +7888,6 @@ DOMAIN-SUFFIX,a0c77.com
 DOMAIN-SUFFIX,a1166.com
 DOMAIN-SUFFIX,a135.net
 DOMAIN-SUFFIX,a166.com
-DOMAIN-SUFFIX,a1714.com
 DOMAIN-SUFFIX,a2048.com
 DOMAIN-SUFFIX,a21fs.com
 DOMAIN-SUFFIX,a21yishion.com
@@ -9060,6 +9056,7 @@ DOMAIN-SUFFIX,aliyunedu.net
 DOMAIN-SUFFIX,aliyunfuwuqi.com
 DOMAIN-SUFFIX,aliyunga0017.com
 DOMAIN-SUFFIX,aliyunga0018.com
+DOMAIN-SUFFIX,aliyunga0019.com
 DOMAIN-SUFFIX,aliyungf.com
 DOMAIN-SUFFIX,aliyunhelp.com
 DOMAIN-SUFFIX,aliyunhn.com
@@ -12242,13 +12239,17 @@ DOMAIN-SUFFIX,bobouny.com
 DOMAIN-SUFFIX,bobtj.com
 DOMAIN-SUFFIX,bobtranslate.com
 DOMAIN-SUFFIX,bocaidaka.com
+DOMAIN-SUFFIX,bocamchina.com
 DOMAIN-SUFFIX,bocaviation.com
+DOMAIN-SUFFIX,boccfc.cc
 DOMAIN-SUFFIX,boce.com
 DOMAIN-SUFFIX,bocep2c.com
+DOMAIN-SUFFIX,bocfullertonbank.com
 DOMAIN-SUFFIX,bocgi.com
 DOMAIN-SUFFIX,bocgins.com
 DOMAIN-SUFFIX,bochk.com
 DOMAIN-SUFFIX,bocichina.com
+DOMAIN-SUFFIX,bocifunds.com
 DOMAIN-SUFFIX,bocigroup.com
 DOMAIN-SUFFIX,bocim.com
 DOMAIN-SUFFIX,bocomcc.com
@@ -13404,6 +13405,7 @@ DOMAIN-SUFFIX,ccapedu.com
 DOMAIN-SUFFIX,ccartd.com
 DOMAIN-SUFFIX,ccarting.com
 DOMAIN-SUFFIX,ccasy.com
+DOMAIN-SUFFIX,ccbcos.com
 DOMAIN-SUFFIX,ccbft.com
 DOMAIN-SUFFIX,ccbfund.com
 DOMAIN-SUFFIX,ccbfutures.com
@@ -13415,6 +13417,7 @@ DOMAIN-SUFFIX,ccbpension.com
 DOMAIN-SUFFIX,ccbride.com
 DOMAIN-SUFFIX,ccbseoul.com
 DOMAIN-SUFFIX,ccbwfs.com
+DOMAIN-SUFFIX,ccbxt.com
 DOMAIN-SUFFIX,cccaq.com
 DOMAIN-SUFFIX,cccbs.net
 DOMAIN-SUFFIX,ccccl.net
@@ -15248,6 +15251,7 @@ DOMAIN-SUFFIX,chinaunicom.com.hk
 DOMAIN-SUFFIX,chinaunicomglobal.com
 DOMAIN-SUFFIX,chinauniforms.com
 DOMAIN-SUFFIX,chinaunionpay.com
+DOMAIN-SUFFIX,chinaunionpay.net
 DOMAIN-SUFFIX,chinauniversalasset.com
 DOMAIN-SUFFIX,chinaunix.com
 DOMAIN-SUFFIX,chinaunix.net
@@ -15693,7 +15697,9 @@ DOMAIN-SUFFIX,cifoo.com
 DOMAIN-SUFFIX,ciftis.org
 DOMAIN-SUFFIX,cigadesign.com
 DOMAIN-SUFFIX,cigarambassador.com
+DOMAIN-SUFFIX,cignacmb-ipmi.com
 DOMAIN-SUFFIX,cignacmb.com
+DOMAIN-SUFFIX,cignacmbamc.com
 DOMAIN-SUFFIX,cihai123.com
 DOMAIN-SUFFIX,cihexpo.com
 DOMAIN-SUFFIX,ciicgat.com
@@ -16042,6 +16048,7 @@ DOMAIN-SUFFIX,cmbbao.com
 DOMAIN-SUFFIX,cmbchina.biz
 DOMAIN-SUFFIX,cmbchina.net
 DOMAIN-SUFFIX,cmbi.com.hk
+DOMAIN-SUFFIX,cmbuat.com
 DOMAIN-SUFFIX,cmbuy10086.com
 DOMAIN-SUFFIX,cmbwinglungbank.com
 DOMAIN-SUFFIX,cmcc-ecs.com
@@ -16064,6 +16071,8 @@ DOMAIN-SUFFIX,cmechina.net
 DOMAIN-SUFFIX,cmejob.com
 DOMAIN-SUFFIX,cmenergyshipping.com
 DOMAIN-SUFFIX,cmes.org
+DOMAIN-SUFFIX,cmf.biz
+DOMAIN-SUFFIX,cmf.ltd
 DOMAIN-SUFFIX,cmfchina.com
 DOMAIN-SUFFIX,cmfish.com
 DOMAIN-SUFFIX,cmfspay.com
@@ -17962,7 +17971,6 @@ DOMAIN-SUFFIX,cznewcom.com
 DOMAIN-SUFFIX,czongyi.com
 DOMAIN-SUFFIX,czopen.com
 DOMAIN-SUFFIX,czpoly.com
-DOMAIN-SUFFIX,czqfloor.com
 DOMAIN-SUFFIX,czrj.com
 DOMAIN-SUFFIX,czry888.com
 DOMAIN-SUFFIX,czsbtjx.com
@@ -26772,7 +26780,6 @@ DOMAIN-SUFFIX,hbjcgy.com
 DOMAIN-SUFFIX,hbjdxt.com
 DOMAIN-SUFFIX,hbjhc.com
 DOMAIN-SUFFIX,hbjhpx.com
-DOMAIN-SUFFIX,hbjhyh.com
 DOMAIN-SUFFIX,hbjianzhuwang.com
 DOMAIN-SUFFIX,hbjimin.com
 DOMAIN-SUFFIX,hbjinnong.com
@@ -27436,7 +27443,6 @@ DOMAIN-SUFFIX,hgzkb.com
 DOMAIN-SUFFIX,hgzrc.com
 DOMAIN-SUFFIX,hh-gltd.com
 DOMAIN-SUFFIX,hh010.com
-DOMAIN-SUFFIX,hh04.com
 DOMAIN-SUFFIX,hh1488.com
 DOMAIN-SUFFIX,hhailuo.com
 DOMAIN-SUFFIX,hhbg123.com
@@ -29813,23 +29819,57 @@ DOMAIN-SUFFIX,icasiso.com
 DOMAIN-SUFFIX,icastlewar.com
 DOMAIN-SUFFIX,icax.org
 DOMAIN-SUFFIX,icbc
+DOMAIN-SUFFIX,icbc-at.com
+DOMAIN-SUFFIX,icbc-cz.com
 DOMAIN-SUFFIX,icbc-ltd.com
 DOMAIN-SUFFIX,icbc-uk.com
 DOMAIN-SUFFIX,icbc-us.com
+DOMAIN-SUFFIX,icbc.ae
+DOMAIN-SUFFIX,icbc.be
 DOMAIN-SUFFIX,icbc.co.id
+DOMAIN-SUFFIX,icbc.co.jp
+DOMAIN-SUFFIX,icbc.co.kr
+DOMAIN-SUFFIX,icbc.co.nl
+DOMAIN-SUFFIX,icbc.com.au
+DOMAIN-SUFFIX,icbc.com.es
+DOMAIN-SUFFIX,icbc.com.kh
+DOMAIN-SUFFIX,icbc.com.kw
+DOMAIN-SUFFIX,icbc.com.la
+DOMAIN-SUFFIX,icbc.com.mm
 DOMAIN-SUFFIX,icbc.com.mo
+DOMAIN-SUFFIX,icbc.com.mx
 DOMAIN-SUFFIX,icbc.com.pe
+DOMAIN-SUFFIX,icbc.com.pk
+DOMAIN-SUFFIX,icbc.com.qa
 DOMAIN-SUFFIX,icbc.com.sg
+DOMAIN-SUFFIX,icbc.com.vn
+DOMAIN-SUFFIX,icbc.de
+DOMAIN-SUFFIX,icbc.eu
 DOMAIN-SUFFIX,icbc.jp
+DOMAIN-SUFFIX,icbc.lu
+DOMAIN-SUFFIX,icbcalmaty.kz
 DOMAIN-SUFFIX,icbcasia.com
 DOMAIN-SUFFIX,icbcbr.com.br
+DOMAIN-SUFFIX,icbci.com.hk
+DOMAIN-SUFFIX,icbcina.com
+DOMAIN-SUFFIX,icbcindia.com
+DOMAIN-SUFFIX,icbcit.com
 DOMAIN-SUFFIX,icbclondon.com
+DOMAIN-SUFFIX,icbcme.ae
+DOMAIN-SUFFIX,icbcmoscow.ru
 DOMAIN-SUFFIX,icbcmy.com
+DOMAIN-SUFFIX,icbcnz.com
+DOMAIN-SUFFIX,icbcpanama.com
+DOMAIN-SUFFIX,icbcparis.fr
+DOMAIN-SUFFIX,icbcpl.com
 DOMAIN-SUFFIX,icbcstandard.com
 DOMAIN-SUFFIX,icbcstandardbank.com
 DOMAIN-SUFFIX,icbcstandardresources.com
 DOMAIN-SUFFIX,icbcstandardsecurities.com
 DOMAIN-SUFFIX,icbcswiss.com
+DOMAIN-SUFFIX,icbcthai.com
+DOMAIN-SUFFIX,icbkfs.com
+DOMAIN-SUFFIX,icbkus.com
 DOMAIN-SUFFIX,icbuy.com
 DOMAIN-SUFFIX,icc.link
 DOMAIN-SUFFIX,icc.one
@@ -41464,6 +41504,7 @@ DOMAIN-SUFFIX,nhaidu.net
 DOMAIN-SUFFIX,nhbhpx.club
 DOMAIN-SUFFIX,nhdmd.com
 DOMAIN-SUFFIX,nhganggeban.com
+DOMAIN-SUFFIX,nhhwhxh.com
 DOMAIN-SUFFIX,nhnexpo.com
 DOMAIN-SUFFIX,nhnsc.com
 DOMAIN-SUFFIX,nhnst.com
@@ -42686,7 +42727,6 @@ DOMAIN-SUFFIX,osvlabs.com
 DOMAIN-SUFFIX,oswdj.com
 DOMAIN-SUFFIX,oswhy.com
 DOMAIN-SUFFIX,osx.cx
-DOMAIN-SUFFIX,osyum.com
 DOMAIN-SUFFIX,osyunwei.com
 DOMAIN-SUFFIX,otcgd.com
 DOMAIN-SUFFIX,otcms.com
@@ -44994,7 +45034,6 @@ DOMAIN-SUFFIX,qingflow.com
 DOMAIN-SUFFIX,qingfo.com
 DOMAIN-SUFFIX,qingfuwucdn.net
 DOMAIN-SUFFIX,qingfuyun.com
-DOMAIN-SUFFIX,qingfuzaixian.com
 DOMAIN-SUFFIX,qinggl.com
 DOMAIN-SUFFIX,qingguo.com
 DOMAIN-SUFFIX,qinghe.tv
@@ -51556,6 +51595,7 @@ DOMAIN-SUFFIX,tanglei.name
 DOMAIN-SUFFIX,tangmi.net
 DOMAIN-SUFFIX,tangobrowser.net
 DOMAIN-SUFFIX,tangongye.com
+DOMAIN-SUFFIX,tangqingtuia1.com
 DOMAIN-SUFFIX,tangrenjv.com
 DOMAIN-SUFFIX,tangruiqian.com
 DOMAIN-SUFFIX,tangsanshu.com
@@ -52123,6 +52163,7 @@ DOMAIN-SUFFIX,tesexiu.com
 DOMAIN-SUFFIX,teshenqi.com
 DOMAIN-SUFFIX,tesolsh.com
 DOMAIN-SUFFIX,tesoon.com
+DOMAIN-SUFFIX,test-cignacmb.com
 DOMAIN-SUFFIX,test-edu.net
 DOMAIN-SUFFIX,test404.com
 DOMAIN-SUFFIX,testbird.com
@@ -52750,6 +52791,7 @@ DOMAIN-SUFFIX,tlgslb.com
 DOMAIN-SUFFIX,tlightsky.com
 DOMAIN-SUFFIX,tlinx.com
 DOMAIN-SUFFIX,tlivecdn.com
+DOMAIN-SUFFIX,tlivepush.com
 DOMAIN-SUFFIX,tljcw.com
 DOMAIN-SUFFIX,tljob8001.com
 DOMAIN-SUFFIX,tlkzs.com
@@ -53370,7 +53412,6 @@ DOMAIN-SUFFIX,tsyqb.com
 DOMAIN-SUFFIX,tsyzm.com
 DOMAIN-SUFFIX,tsz.com
 DOMAIN-SUFFIX,tszckj.com
-DOMAIN-SUFFIX,tszs360.com
 DOMAIN-SUFFIX,tszyzx.com
 DOMAIN-SUFFIX,tt-bike.com
 DOMAIN-SUFFIX,tt-ly.com
@@ -53408,7 +53449,6 @@ DOMAIN-SUFFIX,ttkkuu.com
 DOMAIN-SUFFIX,ttkmj.org
 DOMAIN-SUFFIX,ttkuan.com
 DOMAIN-SUFFIX,ttkxh.com
-DOMAIN-SUFFIX,ttkyy.net
 DOMAIN-SUFFIX,ttll.cc
 DOMAIN-SUFFIX,ttlsa.com
 DOMAIN-SUFFIX,ttmark.com
@@ -54336,6 +54376,7 @@ DOMAIN-SUFFIX,union555.com
 DOMAIN-SUFFIX,unioncyber.net
 DOMAIN-SUFFIX,unionli.com
 DOMAIN-SUFFIX,unionpay.com
+DOMAIN-SUFFIX,unionpay.net
 DOMAIN-SUFFIX,unionpay95516.cc
 DOMAIN-SUFFIX,unionpayintl.com
 DOMAIN-SUFFIX,unionpaysecure.com

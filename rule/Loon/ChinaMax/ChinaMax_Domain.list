@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-09-25 02:33:46
+# UPDATED: 2022-09-26 02:34:20
 # DOMAIN: 83
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 69251
+# DOMAIN-SUFFIX: 69295
 # IP-ASN: 946
-# IP-CIDR: 6301
+# IP-CIDR: 6300
 # IP-CIDR6: 4293
 # USER-AGENT: 65
-# TOTAL: 80953
+# TOTAL: 80996
 265.com
 adservice.google.com
 analytics.strava.com
@@ -2334,7 +2334,6 @@ www4-static.gog-statics.com
 .22edu.com
 .22ff.com
 .22hd.com
-.22hyk.com
 .22ja.com
 .22k9.com
 .22lianmeng.com
@@ -3741,7 +3740,6 @@ www4-static.gog-statics.com
 .44971.com
 .44dt.com
 .44england.com
-.44hyk.com
 .44iuno85gr.com
 .44pd.com
 .44pq.co
@@ -4928,7 +4926,6 @@ www4-static.gog-statics.com
 .55hl.com
 .55hl.net
 .55home.com
-.55hyk.com
 .55i8.com
 .55idc.com
 .55jisu.com
@@ -6272,7 +6269,6 @@ www4-static.gog-statics.com
 .80800.vip
 .8081.net
 .80881.com
-.808cdn.com
 .808w.com
 .8090.com
 .8090.pk
@@ -8755,6 +8751,7 @@ www4-static.gog-statics.com
 .aliyunfuwuqi.com
 .aliyunga0017.com
 .aliyunga0018.com
+.aliyunga0019.com
 .aliyungf.com
 .aliyunhelp.com
 .aliyunhn.com
@@ -12170,7 +12167,9 @@ www4-static.gog-statics.com
 .bobtranslate.com
 .boc.cn
 .bocaidaka.com
+.bocamchina.com
 .bocaviation.com
+.boccfc.cc
 .boccfc.cn
 .boce.com
 .bocep2c.com
@@ -12179,7 +12178,12 @@ www4-static.gog-statics.com
 .bocgins.com
 .bochk.com
 .bochkonline.com
+.bocichina.cn
 .bocichina.com
+.bocichina.com.cn
+.bocifunds.cn
+.bocifunds.com
+.bocifunds.com.cn
 .bocigroup.com
 .bocim.com
 .bocomcc.com
@@ -13392,18 +13396,22 @@ www4-static.gog-statics.com
 .ccbft.com
 .ccbfund.cn
 .ccbfund.com
+.ccbfund.com.cn
+.ccbfutures.cn
 .ccbfutures.com
 .ccbhome.cn
 .ccbhome.net
 .ccbiji.com
 .ccbintl.com.hk
 .ccbleasing.com
+.ccblife-test.com.cn
 .ccbookfair.com
 .ccbpension.com
 .ccbride.com
 .ccbseoul.com
 .ccbtrust.com.cn
 .ccbwfs.com
+.ccbxt.com
 .cccaq.com
 .cccbs.net
 .ccccl.net
@@ -15795,7 +15803,9 @@ www4-static.gog-statics.com
 .ciftis.org
 .cigadesign.com
 .cigarambassador.com
+.cignacmb-ipmi.com
 .cignacmb.com
+.cignacmbamc.com
 .cihai123.com
 .cihexpo.com
 .ciicgat.com
@@ -16257,11 +16267,14 @@ www4-static.gog-statics.com
 .cmbajia.com
 .cmbbao.com
 .cmbchina.biz
+.cmbchina.cn
 .cmbchina.com
 .cmbchina.net
 .cmbi.com.hk
+.cmbimg.cn
 .cmbimg.com
 .cmbt.cn
+.cmbuat.com
 .cmburl.cn
 .cmbuy10086.com
 .cmbwinglungbank.com
@@ -16298,11 +16311,14 @@ www4-static.gog-statics.com
 .cmejob.com
 .cmenergyshipping.com
 .cmes.org
+.cmf.biz
+.cmf.ltd
 .cmfchina.com
 .cmfish.com
 .cmfspay.com
 .cmft.com
 .cmfu.com
+.cmfunds.cn
 .cmgadx.com
 .cmgame.com
 .cmge.com
@@ -18071,6 +18087,7 @@ www4-static.gog-statics.com
 .cuour-edu.com
 .cuour.com
 .cuour.org
+.cup.com.cn
 .cup62.cn
 .cupb.cn
 .cupdapp.com
@@ -18318,7 +18335,6 @@ www4-static.gog-statics.com
 .czongyi.com
 .czopen.com
 .czpoly.com
-.czqfloor.com
 .czrj.com
 .czry888.com
 .czsbtjx.com
@@ -27481,7 +27497,6 @@ www4-static.gog-statics.com
 .hbjdxt.com
 .hbjhc.com
 .hbjhpx.com
-.hbjhyh.com
 .hbjia.net
 .hbjianzhuwang.com
 .hbjimin.com
@@ -28162,7 +28177,6 @@ www4-static.gog-statics.com
 .hgzrc.com
 .hh-gltd.com
 .hh010.com
-.hh04.com
 .hh1488.com
 .hhailuo.com
 .hhbg123.com
@@ -30684,30 +30698,59 @@ www4-static.gog-statics.com
 .icastlewar.com
 .icax.org
 .icbc
+.icbc-at.com
+.icbc-cz.com
 .icbc-ltd.com
 .icbc-uk.com
 .icbc-us.com
+.icbc.ae
+.icbc.be
 .icbc.co.id
+.icbc.co.jp
+.icbc.co.kr
+.icbc.co.nl
+.icbc.com.au
 .icbc.com.cn
+.icbc.com.es
+.icbc.com.kh
+.icbc.com.kw
+.icbc.com.la
+.icbc.com.mm
 .icbc.com.mo
+.icbc.com.mx
 .icbc.com.pe
+.icbc.com.pk
+.icbc.com.qa
 .icbc.com.sg
+.icbc.com.vn
+.icbc.de
+.icbc.eu
 .icbc.jp
+.icbc.lu
+.icbcalmaty.kz
 .icbcasia.com
 .icbcbr.com.br
 .icbccs.com.cn
+.icbccstz.com.cn
+.icbci.com.hk
 .icbcina.com
 .icbcindia.com
 .icbcit.com
 .icbclondon.com
+.icbcmanila.com.cn
+.icbcme.ae
+.icbcmoscow.ru
 .icbcmy.com
 .icbcnz.com
+.icbcpanama.com
+.icbcparis.fr
 .icbcpl.com
 .icbcstandard.com
 .icbcstandardbank.com
 .icbcstandardresources.com
 .icbcstandardsecurities.com
 .icbcswiss.com
+.icbcthai.com
 .icbkfs.com
 .icbkus.com
 .icbuy.com
@@ -43035,6 +43078,7 @@ www4-static.gog-statics.com
 .nhbhpx.club
 .nhdmd.com
 .nhganggeban.com
+.nhhwhxh.com
 .nhlink.cn
 .nhmuni.com
 .nhnexpo.com
@@ -44340,7 +44384,6 @@ www4-static.gog-statics.com
 .oswdj.com
 .oswhy.com
 .osx.cx
-.osyum.com
 .osyunwei.com
 .otcaumiu.com
 .otcgd.com
@@ -46811,7 +46854,6 @@ www4-static.gog-statics.com
 .qingfo.com
 .qingfuwucdn.net
 .qingfuyun.com
-.qingfuzaixian.com
 .qinggl.com
 .qingguo.com
 .qinghe.tv
@@ -53751,6 +53793,7 @@ www4-static.gog-statics.com
 .tangmi.net
 .tangobrowser.net
 .tangongye.com
+.tangqingtuia1.com
 .tangrenjv.com
 .tangruiqian.com
 .tangsanshu.com
@@ -54355,6 +54398,7 @@ www4-static.gog-statics.com
 .teshenqi.com
 .tesolsh.com
 .tesoon.com
+.test-cignacmb.com
 .test-edu.net
 .test-ipv4.com
 .test-ipv6.com
@@ -55008,6 +55052,7 @@ www4-static.gog-statics.com
 .tlightsky.com
 .tlinx.com
 .tlivecdn.com
+.tlivepush.com
 .tljcw.com
 .tljob8001.com
 .tlkzs.com
@@ -55657,7 +55702,6 @@ www4-static.gog-statics.com
 .tsyzm.com
 .tsz.com
 .tszckj.com
-.tszs360.com
 .tszyzx.com
 .tt-bike.com
 .tt-ly.com
@@ -55698,7 +55742,6 @@ www4-static.gog-statics.com
 .ttkmj.org
 .ttkuan.com
 .ttkxh.com
-.ttkyy.net
 .ttll.cc
 .ttlsa.com
 .ttmark.com
@@ -56681,6 +56724,7 @@ www4-static.gog-statics.com
 .unionpay.com
 .unionpay.net
 .unionpay95516.cc
+.unionpayintl.cn
 .unionpayintl.com
 .unionpaysecure.com
 .uniontech.com

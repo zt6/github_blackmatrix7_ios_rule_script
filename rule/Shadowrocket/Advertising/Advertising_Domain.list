@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-09-25 02:31:13
+# UPDATED: 2022-09-26 02:31:36
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 14155
 # DOMAIN-KEYWORD: 77
-# DOMAIN-SUFFIX: 76912
+# DOMAIN-SUFFIX: 76933
 # IP-CIDR: 241
 # URL-REGEX: 301
-# TOTAL: 91686
+# TOTAL: 91707
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -16779,6 +16779,7 @@ zzxosget.com
 .9itmr1lzaltn.com
 .9j1y.cn
 .9j3a.cn
+.9js6.icu
 .9kff.com
 .9kh5b.cn
 .9kkf51ovqex1.com
@@ -24455,6 +24456,7 @@ zzxosget.com
 .applaudcourageous.com
 .applaudliteratureconsultant.com
 .applicationgrabb.net
+.applicationinsights.azure.com
 .applicationpremium70.club
 .appliedq.com
 .appliedsemantics.com
@@ -31170,6 +31172,7 @@ zzxosget.com
 .ckardwithinktab.info
 .ckcsuk.com
 .ckeckstatus.biz
+.ckerw.xyz
 .ckg.vipyl.com
 .ckgnoy.com
 .ckgroundan.xyz
@@ -33935,6 +33938,7 @@ zzxosget.com
 .cunyiesus.com
 .cunzashope.com
 .cuoas.com
+.cuoc8live.com
 .cuoss.com
 .cupallask.site
 .cupbiologicaljourney.com
@@ -38456,6 +38460,7 @@ zzxosget.com
 .edvforeveretest.info
 .edvfwlacluo.com
 .edw.edmunds.com
+.edwad.co
 .edwhitnes.info
 .edwlifes.vo.llnwd.net
 .edxhxu.com
@@ -38621,6 +38626,7 @@ zzxosget.com
 .eguo.info
 .egyazegyben.com
 .egyenesen.com
+.egyfgsq.cn
 .egypolice.com
 .egyptmiane3mao7uw.com
 .egyptpolarity.com
@@ -43829,6 +43835,7 @@ zzxosget.com
 .glowpok.rawr.gold
 .gloxeept.com
 .gloyah.net
+.glpca.com
 .glpen08.com
 .glpl4qp99ny4.com
 .glrcy.cn
@@ -44585,6 +44592,7 @@ zzxosget.com
 .gritchuw.com
 .gritspera.mobi
 .grivupie.net
+.grjasq.com
 .grjjngkemtpjqp.com
 .grjs02.com
 .grjs06.com
@@ -47179,6 +47187,7 @@ zzxosget.com
 .i99906.com
 .i99908.com
 .i99i.org
+.i9bet444.com
 .i9bet5.com
 .i9w8p.pw
 .ia.5.p2l.info
@@ -50060,6 +50069,7 @@ zzxosget.com
 .jlkja.com
 .jlklnwmj.com
 .jln3.clstudios.com
+.jlosuiq.cn
 .jlpbyt.com
 .jlssbz.com
 .jlvqhftliz.com
@@ -50434,6 +50444,7 @@ zzxosget.com
 .jsmwd.com
 .jsnaktyxljsohwp.xyz
 .jsncke.com
+.jsnoownma.fun
 .jsnqh.cn
 .jsoctn9.com
 .json.smotri.com
@@ -56778,7 +56789,6 @@ zzxosget.com
 .metric.emerils.com
 .metric.fatcatalog.com
 .metric.fidmscholarshipfoundation.org
-.metric.gstatic.com
 .metric.huya.com
 .metric.inetcore.com
 .metric.infoworld.com
@@ -57329,6 +57339,7 @@ zzxosget.com
 .middlesswal.com
 .mideal.fr
 .midenterprise.com
+.midgerelativelyhoax.com
 .midgetincidentally.com
 .midinfo.baofeng.com
 .midistortrix.com
@@ -58726,6 +58737,7 @@ zzxosget.com
 .muvimtim.com
 .muwmedia.com
 .muwootch.com
+.muxing.city
 .muybjar.cn
 .muyijia.shop
 .muyoozrkkyr.com
@@ -59304,6 +59316,7 @@ zzxosget.com
 .nbasicalbuffere.info
 .nbcxa65t002z.net.zooplus.fr
 .nbet.com
+.nbet.top
 .nbet.vip
 .nbet.win
 .nbf9b5aurl.com
@@ -61150,6 +61163,7 @@ zzxosget.com
 .oddomane.com
 .oddscornflower.com
 .oddsresemble.com
+.oddsserve.com
 .oddsshitfixes.com
 .odfnxnzrmvxw.com
 .odhrnejegx.com
@@ -64613,6 +64627,7 @@ zzxosget.com
 .po.funshion.com
 .po.ponant.com
 .poacawhe.net
+.poae2klya.icu
 .poagroul.com
 .poasotha.com
 .pobliba.info
@@ -67551,6 +67566,7 @@ zzxosget.com
 .rc.haodongkeji.cn
 .rc.ie13.com
 .rc.vtex.com.br
+.rc7e.top
 .rcaiu.com
 .rcaiv.com
 .rcblkkhfvrxyn.com
@@ -78298,6 +78314,8 @@ zzxosget.com
 .th7.cn
 .th700.com
 .tha.bet
+.thabet.co
+.thabet.one
 .thabet88.co
 .thabet88.info
 .thabet88.vip
@@ -81526,6 +81544,7 @@ zzxosget.com
 .trv.upperbooking.com
 .trvdp.com
 .trvtrk.com
+.trvwjyjgkgeagd.com
 .trwba.com
 .trx-hub.com
 .trx.smdatalabs.com
@@ -83321,6 +83340,7 @@ zzxosget.com
 .v2cigs.com
 .v2mlemerald.com
 .v2profit.com
+.v2zn.xyz
 .v34ffs.site
 .v3hu9iu.cn
 .v3iy0h.cn
@@ -90796,6 +90816,7 @@ zzxosget.com
 .zqzxz.com
 .zrav2wkbrs.com
 .zrbl21.cn
+.zrbn.ltd
 .zrcir.com
 .zreder.com
 .zreluo.com

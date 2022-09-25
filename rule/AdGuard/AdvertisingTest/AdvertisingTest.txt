@@ -1,79 +1,55 @@
 ! Title: AdvertisingTest
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2022-09-25 02:31:58
-! Total: 100323
+! Updated: 2022-09-26 02:32:24
+! Total: 100344
 
 
-||3p-geo.yahoo.com^
-||3p-udc.yahoo.com^
+||1n4o.icu^
 ||46186911.vtt^
 ||80055404.vtt^
-||9js6.icu^
 ||absurdapple.com^
-||adfox.yandex.ru^
 ||adfstat.yandex.ru^
 ||ads.yahoo.com^
 ||ads.youtube.com^
-||adsdk.yandex.ru^
-||an.yandex.ru^
 ||anxiousapples.com^
 ||api.sec.miui.com^
 ||app.ssp.yahoo.com^
 ||appboy-images.com^
-||apple.www.letv.com^
 ||applebarq.com^
 ||applequan.com^
 ||applescringe.com^
-||applicationinsights.azure.com^
-||awaps.yandex.ru^
 ||awsync.yandex.ru^
-||bats.video.yahoo.com^
 ||beacon.search.yahoo.com^
 ||beap-bc.yahoo.com^
-||bs.yandex.ru^
-||ckerw.xyz^
-||collector2c.zhihuishu.com^
-||cookiex.ngd.yahoo.com^
 ||crypta.js^
 ||d1stxfv94hrhia.cloudfront^
 ||dmg-dd.oss-accelerate.aliyuncs.com^
-||edwad.co^
 ||fpb1.apple886.com^
-||ganon.yahoo.com^
-||geo.yahoo.com^
 ||https-apple.com^
 ||iadsdk.apple.com^
 ||ib.snssdk.com^
-||informer.yandex.ru^
-||jill.fc.yahoo.com^
+||jingtuliutongchu.work^
 ||jpaasne.e.shifen.com^
-||jsnoownma.fun^
 ||log.strm.yandex.ru^
 ||marketingsolutions.yahoo.com^
-||mc.yandex.ru^
 ||mediaappletree.com^
 ||meitaolianmeng.ltd^
-||midgerelativelyhoax.com^
 ||mm.n3w1d0ma1n^
 ||mo.vlpyj.xy^
-||nol.yahoo.com^
+||odkxgwl.cn^
+||otoeew.xyz^
 ||pr.comet.yahoo.com^
-||pv.sohu.com^
 ||rrf.fat1domain1^
 ||shackapple.com^
 ||stats.video.search.yahoo.com^
 ||sub.powerapple.com^
-||supportmetrics.apple.com^
-||test.vast^
+||t1.xuefen.com.cn^
 ||theapple.site^
-||trvwjyjgkgeagd.com^
-||v2zn.xyz^
-||visit.webhosting.yahoo.com^
+||vyps.fun^
 ||wondefulapplend.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||youtube.local^
-||zrbn.ltd^
 ||0-000.store^
 ||0.code.cotsta.ru^
 ||0001.best^
@@ -1696,6 +1672,7 @@
 ||9itmr1lzaltn.com^
 ||9j1y.cn^
 ||9j3a.cn^
+||9js6.icu^
 ||9kh5b.cn^
 ||9kkf51ovqex1.com^
 ||9nl.eu^
@@ -6471,6 +6448,7 @@
 ||applaudcourageous.com^
 ||applaudliteratureconsultant.com^
 ||applicationgrabb.net^
+||applicationinsights.azure.com^
 ||applicationpremium70.club^
 ||appliedq.com^
 ||apploading.mobi^
@@ -11400,6 +11378,7 @@
 ||ck.ncclick.co.kr^
 ||ckcsuk.com^
 ||ckeckstatus.biz^
+||ckerw.xyz^
 ||ckgnoy.com^
 ||ckgroundan.xyz^
 ||ckhvmkurkifon.com^
@@ -13216,6 +13195,7 @@
 ||cuntwars.com^
 ||cunyiesus.com^
 ||cunzashope.com^
+||cuoc8live.com^
 ||cupbiologicaljourney.com^
 ||cupcognatekaleidoscope.com^
 ||cupidonmedia.com^
@@ -16337,6 +16317,7 @@
 ||eduthermas.sk^
 ||edvdiuobicc.xyz^
 ||edvfwlacluo.com^
+||edwad.co^
 ||edwlifes.vo.llnwd.net^
 ||edxhxu.com^
 ||edzyhx.cn^
@@ -16467,6 +16448,7 @@
 ||eguo.info^
 ||egyazegyben.com^
 ||egyenesen.com^
+||egyfgsq.cn^
 ||egypolice.com^
 ||egyptmiane3mao7uw.com^
 ||egyptpolarity.com^
@@ -19974,6 +19956,7 @@
 ||glowpok.rawr.gold^
 ||gloxeept.com^
 ||gloyah.net^
+||glpca.com^
 ||glpl4qp99ny4.com^
 ||glspjvy.cn^
 ||glssp.net^
@@ -20501,6 +20484,7 @@
 ||gritchuw.com^
 ||gritspera.mobi^
 ||grivupie.net^
+||grjasq.com^
 ||grjjngkemtpjqp.com^
 ||grmtas.com^
 ||grmtech.net^
@@ -22335,6 +22319,7 @@
 ||i99906.com^
 ||i99908.com^
 ||i99i.org^
+||i9bet444.com^
 ||i9bet5.com^
 ||ia.5.p2l.info^
 ||ia.iinfo.cz^
@@ -24140,6 +24125,7 @@
 ||jljspx.com^
 ||jljxwlkjw.com^
 ||jlklnwmj.com^
+||jlosuiq.cn^
 ||jlpbyt.com^
 ||jlvqhftliz.com^
 ||jlwsw.top^
@@ -24372,6 +24358,7 @@
 ||jsmjmp.com^
 ||jsmpsi.com^
 ||jsnaktyxljsohwp.xyz^
+||jsnoownma.fun^
 ||jsnqh.cn^
 ||jsoctn9.com^
 ||json.smotri.com^
@@ -28497,7 +28484,6 @@
 ||metosk.com^
 ||metreelusive.com^
 ||metresetbackbayonet.com^
-||metric.gstatic.com^
 ||metric.nimo.tv^
 ||metric.olivegarden.com^
 ||metric.timewarnercable.com^
@@ -28683,6 +28669,7 @@
 ||middlesswal.com^
 ||mideal.fr^
 ||midenterprise.com^
+||midgerelativelyhoax.com^
 ||midgetincidentally.com^
 ||midistortrix.com^
 ||midlandfeisty.com^
@@ -29654,6 +29641,7 @@
 ||muvimtim.com^
 ||muwmedia.com^
 ||muwootch.com^
+||muxing.city^
 ||muybjar.cn^
 ||muyijia.shop^
 ||muyoozrkkyr.com^
@@ -30115,6 +30103,7 @@
 ||nb.5.p2l.info^
 ||nbads.com^
 ||nbet.com^
+||nbet.top^
 ||nbet.vip^
 ||nbet.win^
 ||nbgairiest.com^
@@ -31491,6 +31480,7 @@
 ||oddertabrhino.com^
 ||oddscornflower.com^
 ||oddsresemble.com^
+||oddsserve.com^
 ||oddsshitfixes.com^
 ||odfnxnzrmvxw.com^
 ||odhrnejegx.com^
@@ -33900,6 +33890,7 @@
 ||pnyijiogfpqcv.com^
 ||pnyllove.com^
 ||poacawhe.net^
+||poae2klya.icu^
 ||poagroul.com^
 ||poasotha.com^
 ||pobliba.info^
@@ -36099,6 +36090,7 @@
 ||rc.bt.ilsemedia.nl^
 ||rc.dxsvr.com^
 ||rc.ie13.com^
+||rc7e.top^
 ||rcblkkhfvrxyn.com^
 ||rccsekuitas.com^
 ||rchkup.com^
@@ -42256,6 +42248,8 @@
 ||th-make.com^
 ||th700.com^
 ||tha.bet^
+||thabet.co^
+||thabet.one^
 ||thabet88.co^
 ||thabet88.info^
 ||thabet88.vip^
@@ -43850,6 +43844,7 @@
 ||trv.upperbooking.com^
 ||trvdp.com^
 ||trvtrk.com^
+||trvwjyjgkgeagd.com^
 ||trxxh.com^
 ||trybulgingcoefficient.com^
 ||trymynewspirit.com^
@@ -45122,6 +45117,7 @@
 ||v2cigs.com^
 ||v2mlemerald.com^
 ||v2profit.com^
+||v2zn.xyz^
 ||v34ffs.site^
 ||v3hu9iu.cn^
 ||v4yleins27hv.com^
@@ -50253,6 +50249,7 @@
 ||zquotfuofx.com^
 ||zrav2wkbrs.com^
 ||zrbl21.cn^
+||zrbn.ltd^
 ||zrcir.com^
 ||zreluo.com^
 ||zrlcr.com^
@@ -68073,7 +68070,6 @@
 ||tarteaucitron.ml^
 ||tartoals.net^
 ||taryarguestio.info^
-||tat.pandora.xiaomi.com^
 ||tataget.ru^
 ||tatagou.com.cn^
 ||tatahn.com^
@@ -72470,6 +72466,7 @@
 ||zzzzz4.52896368.com^
 ||519332da.rtc.youme.im^
 ||gvod.aiseejapp.atianqi.com^
+||tat.pandora.xiaomi.com^
 ||0-owazo4.net.zooplus.de^
 ||0.data.net.zooplus.de^
 ||0.net.zooplus.nl^
@@ -72792,6 +72789,7 @@
 ||300ca0d0.space^
 ||301pk.com^
 ||302br.net^
+||302y.fun^
 ||307.cc^
 ||30daychange.co^
 ||30edu.com.cn^
@@ -72965,6 +72963,7 @@
 ||643108e7617ef.cdn.sohucs.com^
 ||6554.net^
 ||65c6.playfabapi.com^
+||65fsgsv.com^
 ||6604.org^
 ||661291.com^
 ||6613167.cn^
@@ -77308,6 +77307,7 @@
 ||dgemwx.whiteteak.com^
 ||dgkpzy.2ch2.net^
 ||dgmolb.irishjobs.ie^
+||dgrrvpl.cn^
 ||dgstatic.jd.com^
 ||dh810.com^
 ||dh820.com^
@@ -78006,7 +78006,6 @@
 ||egoi.page^
 ||egou.com^
 ||egvemw.aboutyou.ee^
-||egyfgsq.cn^
 ||ehauzf.jewlr.ca^
 ||ehavol.consul.com.br^
 ||ehedwd.sikayetvar.com^
@@ -78648,6 +78647,7 @@
 ||fsbozl.dillards.com^
 ||fstsrv.com^
 ||fsugco.rcn.nl^
+||ft8e.top^
 ||ftaysn.meinekette.de^
 ||ftp0118.info^
 ||ftpcontent.worldnow.com^
@@ -79029,7 +79029,6 @@
 ||grepr.com^
 ||greysummergo.biz^
 ||gridcash.net^
-||grjasq.com^
 ||grjs01.com^
 ||groorgex.net^
 ||group-ib.ru^
@@ -80051,7 +80050,6 @@
 ||jjyx.com^
 ||jkzlzx.com^
 ||jl368.cn^
-||jlosuiq.cn^
 ||jlrfx.com^
 ||jm1.xiao89.com^
 ||jmait.cn^
@@ -80368,6 +80366,7 @@
 ||krpano.org^
 ||kryptosda.kryptosmobile.com^
 ||ks42zt.spec.fm^
+||ksnoownmd.fun^
 ||ku6.com^
 ||kuaibaopay.com^
 ||kuaiboads.com^
@@ -81651,6 +81650,7 @@
 ||metric-android-am.road404.com^
 ||metric-nonssl.nomura.co.jp^
 ||metric.carview.co.jp^
+||metric.gstatic.com^
 ||metric.hilton.com^
 ||metric.iccu.com^
 ||metric.makemytrip.com^
@@ -82268,7 +82268,6 @@
 ||mutuza.win^
 ||muvflix.com^
 ||muvhqe.graodegente.com.br^
-||muxing.city^
 ||muxingkj.com^
 ||muzsj.com^
 ||mvfqmt.herbdoc.com^
@@ -82647,12 +82646,12 @@
 ||octopus.couragetrainingcentre.com^
 ||octopus.evobend.com^
 ||odc.1und1.de^
-||oddsserve.com^
 ||oe.tredsd.com^
 ||oedlmz.underarmour.it^
 ||oem.cnrghj.cn^
 ||offgate-app-phkr.com^
 ||ofnsv69.com^
+||ofvtpwu.cn^
 ||ofwdvh.suntransfers.com^
 ||ogb2.biopur-leanature.fr^
 ||ogtrk.net^
@@ -83391,7 +83390,6 @@
 ||pnovfl.karaca.com^
 ||pnperf.com^
 ||po18.in^
-||poae2klya.icu^
 ||pocketgolf.host^
 ||point.widget.rakuten.co.jp^
 ||poiuy12.com^
@@ -83919,7 +83917,6 @@
 ||ravm.tv^
 ||rayli.com.cn^
 ||rbxtrk.com^
-||rc7e.top^
 ||rcbsrm.fivefoxes.co.jp^
 ||rcd.iqiyi.com^
 ||rcn.asapp.com^
@@ -86982,6 +86979,7 @@
 ||tawk.to^
 ||tb.turbocap.net^
 ||tb1u.com^
+||tbazhaheii.top^
 ||tben.nnchangyi.com^
 ||tbm.snssdk.com^
 ||tbs.qq.com^
@@ -88336,6 +88334,7 @@
 ||waatch.gva.be^
 ||wabdb1.52pk.com^
 ||wabsgz.studocu.com^
+||wadqfaj.cn^
 ||waguwagu.xyz^
 ||wahwahnetworks.com^
 ||wait8hurl.com^
@@ -89420,13 +89419,32 @@
 ||zzyanhushi.com^
 ||zzz.pissrip.net^
 ||10008919.pomelo.fashion^
+||3p-geo.yahoo.com^
+||3p-udc.yahoo.com^
 ||ad.kddi-fs.com^
+||adfox.yandex.ru^
+||adsdk.yandex.ru^
+||an.yandex.ru^
+||apple.www.letv.com^
+||awaps.yandex.ru^
+||bats.video.yahoo.com^
+||bs.yandex.ru^
 ||cdn1.skrill.com^
+||collector2c.zhihuishu.com^
+||cookiex.ngd.yahoo.com^
+||ffbbbdc6d3c353211fe2ba39c9f744cd.com^
 ||fvf3adsna5qc.www.earthclassmail.com^
+||ganon.yahoo.com^
+||geo.yahoo.com^
+||informer.yandex.ru^
 ||insight.olx.ba^
+||jill.fc.yahoo.com^
 ||l.ctrl.blog^
 ||log.kuwo.cn^
+||mc.yandex.ru^
 ||metrics.apple.com^
+||nol.yahoo.com^
+||pv.sohu.com^
 ||retcode.taobao.com^
 ||securemetrics.apple.com^
 ||securemetrics.experience.apple^
@@ -89434,12 +89452,15 @@
 ||securemvt.apple.com.cn^
 ||ssp.rambler.ru^
 ||sugar.zhihu.com^
+||supportmetrics.apple.com^
 ||t.nypost.com^
+||test.vast^
 ||tms.hft.everyplate.com^
 ||tms.hft.factor75.com^
 ||tms.hft.greenchef.com^
 ||tms.hft.hellofresh.com^
 ||track.mrgugu.com^
+||visit.webhosting.yahoo.com^
 ||17gouwuba.com^
 ||186078.com^
 ||189key.com^

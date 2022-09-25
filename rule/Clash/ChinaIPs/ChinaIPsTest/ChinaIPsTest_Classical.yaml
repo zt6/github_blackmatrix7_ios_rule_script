@@ -1,10 +1,10 @@
 # NAME: ChinaIPsTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-09-25 02:33:53
-# IP-CIDR: 6763
-# IP-CIDR6: 4597
-# TOTAL: 11360
+# UPDATED: 2022-09-26 02:34:28
+# IP-CIDR: 6762
+# IP-CIDR6: 4591
+# TOTAL: 11353
 payload:
   - IP-CIDR,1.0.1.0/24
   - IP-CIDR,1.0.2.0/23
@@ -6712,7 +6712,6 @@ payload:
   - IP-CIDR,67.198.221.0/24
   - IP-CIDR,67.198.235.0/24
   - IP-CIDR,67.198.239.0/24
-  - IP-CIDR,67.198.244.0/24
   - IP-CIDR,67.198.255.0/24
   - IP-CIDR,68.79.0.0/18
   - IP-CIDR,69.163.102.0/23
@@ -8201,7 +8200,6 @@ payload:
   - IP-CIDR6,2404:f4c0:f4cd::/48
   - IP-CIDR6,2404:f4c0:f4cf::/48
   - IP-CIDR6,2404:f4c0:f54e::/48
-  - IP-CIDR6,2404:f4c0:f5c0::/44
   - IP-CIDR6,2404:f4c0:f700::/48
   - IP-CIDR6,2404:f4c0:f703::/48
   - IP-CIDR6,2404:f4c0:f705::/48
@@ -8223,6 +8221,7 @@ payload:
   - IP-CIDR6,2404:f4c0:fb00::/48
   - IP-CIDR6,2404:f4c0:fc80::/44
   - IP-CIDR6,2404:f4c0:fd00::/48
+  - IP-CIDR6,2404:f4c0:fd04::/47
   - IP-CIDR6,2404:f4c0:fd06::/48
   - IP-CIDR6,2404:f4c0:fe20::/48
   - IP-CIDR6,2404:f4c0:feff::/48
@@ -10153,10 +10152,6 @@ payload:
   - IP-CIDR6,2a06:a002:2a00::/39
   - IP-CIDR6,2a06:a005:1200::/43
   - IP-CIDR6,2a06:a005:1220::/44
-  - IP-CIDR6,2a06:a005:1310::/44
-  - IP-CIDR6,2a06:a005:1340::/43
-  - IP-CIDR6,2a06:a005:13b0::/44
-  - IP-CIDR6,2a06:a005:13c0::/43
   - IP-CIDR6,2a06:a005:1700::/44
   - IP-CIDR6,2a06:a005:1b60::/44
   - IP-CIDR6,2a06:a005:260::/43
@@ -10170,7 +10165,6 @@ payload:
   - IP-CIDR6,2a06:a005:580::/44
   - IP-CIDR6,2a06:a005:770::/48
   - IP-CIDR6,2a06:a005:950::/47
-  - IP-CIDR6,2a06:a005:a13::/48
   - IP-CIDR6,2a06:a005:d00::/44
   - IP-CIDR6,2a06:a005:d22::/48
   - IP-CIDR6,2a06:a005:d70::/44
@@ -11270,7 +11264,6 @@ payload:
   - IP-CIDR6,2a0e:aa06::/40
   - IP-CIDR6,2a0e:aa07:e01b::/48
   - IP-CIDR6,2a0e:aa07:e024::/47
-  - IP-CIDR6,2a0e:aa07:e02c::/48
   - IP-CIDR6,2a0e:aa07:e030::/48
   - IP-CIDR6,2a0e:aa07:e035::/48
   - IP-CIDR6,2a0e:aa07:e039::/48

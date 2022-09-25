@@ -1,8 +1,8 @@
 ! Title: Advertising
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2022-09-25 02:31:13
-! Total: 91067
+! Updated: 2022-09-26 02:31:37
+! Total: 91088
 
 
 ||0-000.store^
@@ -1632,6 +1632,7 @@
 ||9itmr1lzaltn.com^
 ||9j1y.cn^
 ||9j3a.cn^
+||9js6.icu^
 ||9kh5b.cn^
 ||9kkf51ovqex1.com^
 ||9nl.eu^
@@ -6690,6 +6691,7 @@
 ||applaudcourageous.com^
 ||applaudliteratureconsultant.com^
 ||applicationgrabb.net^
+||applicationinsights.azure.com^
 ||applicationpremium70.club^
 ||appliedq.com^
 ||apploading.mobi^
@@ -11695,6 +11697,7 @@
 ||ck.ncclick.co.kr^
 ||ckcsuk.com^
 ||ckeckstatus.biz^
+||ckerw.xyz^
 ||ckgnoy.com^
 ||ckgroundan.xyz^
 ||ckhvmkurkifon.com^
@@ -13540,6 +13543,7 @@
 ||cuntwars.com^
 ||cunyiesus.com^
 ||cunzashope.com^
+||cuoc8live.com^
 ||cupbiologicaljourney.com^
 ||cupcognatekaleidoscope.com^
 ||cupidonmedia.com^
@@ -16685,6 +16689,7 @@
 ||eduthermas.sk^
 ||edvdiuobicc.xyz^
 ||edvfwlacluo.com^
+||edwad.co^
 ||edwlifes.vo.llnwd.net^
 ||edxhxu.com^
 ||edzyhx.cn^
@@ -16815,6 +16820,7 @@
 ||eguo.info^
 ||egyazegyben.com^
 ||egyenesen.com^
+||egyfgsq.cn^
 ||egypolice.com^
 ||egyptmiane3mao7uw.com^
 ||egyptpolarity.com^
@@ -20365,6 +20371,7 @@
 ||glowpok.rawr.gold^
 ||gloxeept.com^
 ||gloyah.net^
+||glpca.com^
 ||glpl4qp99ny4.com^
 ||glspjvy.cn^
 ||glssp.net^
@@ -20899,6 +20906,7 @@
 ||gritchuw.com^
 ||gritspera.mobi^
 ||grivupie.net^
+||grjasq.com^
 ||grjjngkemtpjqp.com^
 ||grmtas.com^
 ||grmtech.net^
@@ -22746,6 +22754,7 @@
 ||i99906.com^
 ||i99908.com^
 ||i99i.org^
+||i9bet444.com^
 ||i9bet5.com^
 ||ia.5.p2l.info^
 ||ia.iinfo.cz^
@@ -24571,6 +24580,7 @@
 ||jljspx.com^
 ||jljxwlkjw.com^
 ||jlklnwmj.com^
+||jlosuiq.cn^
 ||jlpbyt.com^
 ||jlvqhftliz.com^
 ||jlwsw.top^
@@ -24806,6 +24816,7 @@
 ||jsmjmp.com^
 ||jsmpsi.com^
 ||jsnaktyxljsohwp.xyz^
+||jsnoownma.fun^
 ||jsnqh.cn^
 ||jsoctn9.com^
 ||json.smotri.com^
@@ -28959,7 +28970,6 @@
 ||metosk.com^
 ||metreelusive.com^
 ||metresetbackbayonet.com^
-||metric.gstatic.com^
 ||metric.nimo.tv^
 ||metric.olivegarden.com^
 ||metric.timewarnercable.com^
@@ -29147,6 +29157,7 @@
 ||middlesswal.com^
 ||mideal.fr^
 ||midenterprise.com^
+||midgerelativelyhoax.com^
 ||midgetincidentally.com^
 ||midistortrix.com^
 ||midlandfeisty.com^
@@ -30130,6 +30141,7 @@
 ||muvimtim.com^
 ||muwmedia.com^
 ||muwootch.com^
+||muxing.city^
 ||muybjar.cn^
 ||muyijia.shop^
 ||muyoozrkkyr.com^
@@ -30599,6 +30611,7 @@
 ||nb.5.p2l.info^
 ||nbads.com^
 ||nbet.com^
+||nbet.top^
 ||nbet.vip^
 ||nbet.win^
 ||nbgairiest.com^
@@ -31988,6 +32001,7 @@
 ||oddertabrhino.com^
 ||oddscornflower.com^
 ||oddsresemble.com^
+||oddsserve.com^
 ||oddsshitfixes.com^
 ||odfnxnzrmvxw.com^
 ||odhrnejegx.com^
@@ -34426,6 +34440,7 @@
 ||pnyijiogfpqcv.com^
 ||pnyllove.com^
 ||poacawhe.net^
+||poae2klya.icu^
 ||poagroul.com^
 ||poasotha.com^
 ||pobliba.info^
@@ -36647,6 +36662,7 @@
 ||rc.bt.ilsemedia.nl^
 ||rc.dxsvr.com^
 ||rc.ie13.com^
+||rc7e.top^
 ||rcblkkhfvrxyn.com^
 ||rccsekuitas.com^
 ||rchkup.com^
@@ -42866,6 +42882,8 @@
 ||th-make.com^
 ||th700.com^
 ||tha.bet^
+||thabet.co^
+||thabet.one^
 ||thabet88.co^
 ||thabet88.info^
 ||thabet88.vip^
@@ -44700,6 +44718,7 @@
 ||trv.upperbooking.com^
 ||trvdp.com^
 ||trvtrk.com^
+||trvwjyjgkgeagd.com^
 ||trxxh.com^
 ||trybulgingcoefficient.com^
 ||trymynewspirit.com^
@@ -45980,6 +45999,7 @@
 ||v2cigs.com^
 ||v2mlemerald.com^
 ||v2profit.com^
+||v2zn.xyz^
 ||v34ffs.site^
 ||v3hu9iu.cn^
 ||v4yleins27hv.com^
@@ -51165,6 +51185,7 @@
 ||zquotfuofx.com^
 ||zrav2wkbrs.com^
 ||zrbl21.cn^
+||zrbn.ltd^
 ||zrcir.com^
 ||zreluo.com^
 ||zrlcr.com^

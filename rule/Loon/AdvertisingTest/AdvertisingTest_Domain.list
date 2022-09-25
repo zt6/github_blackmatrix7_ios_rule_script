@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-09-25 02:31:56
+# UPDATED: 2022-09-26 02:32:22
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 10347
+# DOMAIN: 10345
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 89985
+# DOMAIN-SUFFIX: 90008
 # IP-CIDR: 242
 # URL-REGEX: 301
-# TOTAL: 101139
+# TOTAL: 101160
 00-gov.cn
 0026645142c89aeb1.com
 00ae8b5a9c1d597.com
@@ -81,6 +81,7 @@
 1hanritten.com
 1jvd7f7w.top
 1loop.com
+1n4o.icu
 1q2w3.live
 1sen-pit-fan.com
 1yk851od.com
@@ -393,7 +394,6 @@
 9f23ab605837.com
 9f4272342f817.com
 9h7n8.com
-9js6.icu
 9juj88.com
 9ts3tpia.com
 9um9jq799.com
@@ -939,7 +939,6 @@ apple.www.letv.com
 applebarq.com
 applequan.com
 applescringe.com
-applicationinsights.azure.com
 applog-perf.uc.cn
 apportium.com
 apps.appmachine.com
@@ -1762,7 +1761,6 @@ cjotzbxtyxwplr.com
 cjuztylaun.com
 cjvpybdsasarc.com
 cjwjpmudu.com
-ckerw.xyz
 ckkqgycwljxib.com
 ckkrlzxvy.com
 cklad.xyz
@@ -2523,7 +2521,6 @@ edlsdyhll.com
 edrgvzhpqrdnj.com
 edsnnfqazn.com
 eduyzcjsnoeokj.com
-edwad.co
 edxosrcvydn.com
 edyjiqxeppjkj.com
 ee.x8r9m.cn
@@ -2916,6 +2913,7 @@ feyfjlpeexvg.com
 ff52e77ba517.com
 ffaamympgd.com
 ffaspwzfq.com
+ffbbbdc6d3c353211fe2ba39c9f744cd.com
 ffbook.cc
 ffbqnbdcrx.com
 ffhwzaenzoue.com
@@ -4367,6 +4365,7 @@ jikpijfebfflia.com
 jill.fc.yahoo.com
 jimxaqrpqbxldt.com
 jinfrfimajr.com
+jingtuliutongchu.work
 jioivnytpmam.com
 jipzvmzzycg.com
 jiqtqcojfezn.com
@@ -4481,7 +4480,6 @@ jscode.yavli.com
 jsfeedget.com
 jshosting.science
 jsmbaidu.com
-jsnoownma.fun
 jstaikos.com
 jtgckwsacymph.com
 jtikwyeper.com
@@ -5374,7 +5372,6 @@ mi-mi-fa.com
 miahshnju.com
 microsoftaffiliates.net
 midasplayer.com
-midgerelativelyhoax.com
 miegpokitjxm.com
 mierdydkqvpgno.com
 mifxolavi.com
@@ -6001,6 +5998,7 @@ odcnpmjgsxrqpr.com
 oddads.net
 odezwmru.com
 odhuvqrlntidxf.com
+odkxgwl.cn
 odlkdyoe.com
 odukhsymyua.com
 odwofgksbcyoh.com
@@ -6222,6 +6220,7 @@ otiqknmqyibci.com
 otkpegjvpyi.com
 otmonog.info
 otmyoesv.com
+otoeew.xyz
 otoxkqlivsqr.com
 otpyldlrygga.com
 otqhemtwoene.com
@@ -7999,6 +7998,7 @@ t.strk11.email
 t.strk12.email
 t.strk13.email
 t.tpctrust.com
+t1.xuefen.com.cn
 tab20.com
 tabex.sopharma.bg
 tacastas.com
@@ -8316,7 +8316,6 @@ trroawdnmt.com
 truelimitinvestment.com
 truemine.org
 trustarc.com
-trvwjyjgkgeagd.com
 trwbkkxk.com
 tsaqimvbfiv.com
 tsastrmq.com
@@ -8728,7 +8727,6 @@ v.inigsplan.ru
 v.uc.cn
 v.w-x.co
 v1n7c.com
-v2zn.xyz
 v3g4s.com
 v4.ident.me
 v5b99.cn
@@ -9013,6 +9011,7 @@ vxzudzbjvtegu.com
 vyagpffxvs.com
 vyatdrilrtgeh.com
 vygekimhrfto.com
+vyps.fun
 vysgpewbyfbiob.com
 vyykulowdu.com
 vzbbzzasjtn.com
@@ -10276,7 +10275,6 @@ zqxmeahcm.com
 zqydozajw.com
 zqzuiomba.com
 zraytmsjhzv.com
-zrbn.ltd
 zrcaldozggijht.com
 zrcavgvtxqcbu.com
 zrgssannk.com
@@ -11663,6 +11661,7 @@ zzxosget.com
 .301848.com
 .301pk.com
 .302br.net
+.302y.fun
 .30350f.com
 .303marketplace.com
 .30407799.com
@@ -12591,6 +12590,7 @@ zzxosget.com
 .6598kn9gpf.ru
 .65a29ceed813bbca61.com
 .65daishua.cn
+.65fsgsv.com
 .65mjvw6i1z.com
 .65tgh.com
 .65vk1fba34.com
@@ -13623,6 +13623,7 @@ zzxosget.com
 .9itmr1lzaltn.com
 .9j1y.cn
 .9j3a.cn
+.9js6.icu
 .9kff.com
 .9kh5b.cn
 .9kkf51ovqex1.com
@@ -22015,6 +22016,7 @@ zzxosget.com
 .applaudcourageous.com
 .applaudliteratureconsultant.com
 .applicationgrabb.net
+.applicationinsights.azure.com
 .applicationpremium70.club
 .appliedq.com
 .appliedsemantics.com
@@ -29714,6 +29716,7 @@ zzxosget.com
 .ckcsuk.com
 .ckct.ru
 .ckeckstatus.biz
+.ckerw.xyz
 .ckg.vipyl.com
 .ckgnoy.com
 .ckgroundan.xyz
@@ -32999,6 +33002,7 @@ zzxosget.com
 .cunyiesus.com
 .cunzashope.com
 .cuoas.com
+.cuoc8live.com
 .cuoss.com
 .cupallask.site
 .cupbiologicaljourney.com
@@ -35515,6 +35519,7 @@ zzxosget.com
 .dgmolb.irishjobs.ie
 .dgpcdn.org
 .dgpzx.com
+.dgrrvpl.cn
 .dgstatic.jd.com
 .dgtauto.com
 .dgulden.ru
@@ -38494,6 +38499,7 @@ zzxosget.com
 .edvforeveretest.info
 .edvfwlacluo.com
 .edw.edmunds.com
+.edwad.co
 .edwhitnes.info
 .edwlifes.vo.llnwd.net
 .edxhxu.com
@@ -42829,6 +42835,7 @@ zzxosget.com
 .ft.pnop.com
 .ft2.autonomycloud.com
 .ft76531.com
+.ft8e.top
 .ftalymniyqmbuyg.com
 .ftaysn.meinekette.de
 .ftblltrck.com
@@ -44669,6 +44676,7 @@ zzxosget.com
 .glowpok.rawr.gold
 .gloxeept.com
 .gloyah.net
+.glpca.com
 .glpen08.com
 .glpl4qp99ny4.com
 .glrcy.cn
@@ -48554,6 +48562,7 @@ zzxosget.com
 .i99906.com
 .i99908.com
 .i99i.org
+.i9bet444.com
 .i9bet5.com
 .i9w8p.pw
 .ia.5.p2l.info
@@ -52340,6 +52349,7 @@ zzxosget.com
 .jsmxkj.com
 .jsnaktyxljsohwp.xyz
 .jsncke.com
+.jsnoownma.fun
 .jsnqh.cn
 .jsnzoe301m.com
 .jsoctn9.com
@@ -53874,6 +53884,7 @@ zzxosget.com
 .ksi2trk.com
 .ksiywrjwvkmat.com
 .ksjdkjh.ru
+.ksnoownmd.fun
 .kspotson.de
 .ksrsy.com
 .kstj.baidu.com
@@ -60941,6 +60952,7 @@ zzxosget.com
 .middycdn-a.akamaihd.net
 .mideal.fr
 .midenterprise.com
+.midgerelativelyhoax.com
 .midgetincidentally.com
 .midinfo.baofeng.com
 .midistortrix.com
@@ -63269,6 +63281,7 @@ zzxosget.com
 .nbcuni.com
 .nbcxa65t002z.net.zooplus.fr
 .nbet.com
+.nbet.top
 .nbet.vip
 .nbet.win
 .nbf9b5aurl.com
@@ -65485,6 +65498,7 @@ zzxosget.com
 .oftheussi.one
 .ofvosb.jumbo.com.tr
 .ofvsruaqukye.xyz
+.ofvtpwu.cn
 .ofwdvh.suntransfers.com
 .og-affiliate.com
 .ogaqgazu.com
@@ -85663,6 +85677,7 @@ zzxosget.com
 .tbaffiliate.com
 .tbaia.com
 .tbaocdn.com
+.tbazhaheii.top
 .tbcconnect.ge
 .tbe.tom.ru
 .tbebestknives.fr
@@ -86355,6 +86370,8 @@ zzxosget.com
 .th7.cn
 .th700.com
 .tha.bet
+.thabet.co
+.thabet.one
 .thabet88.co
 .thabet88.info
 .thabet88.vip
@@ -89549,6 +89566,7 @@ zzxosget.com
 .trvdp.com
 .trvonu.k-manga.jp
 .trvtrk.com
+.trvwjyjgkgeagd.com
 .trw12.com
 .trwba.com
 .trx-hub.com
@@ -91679,6 +91697,7 @@ zzxosget.com
 .v2mlemerald.com
 .v2nginxowaoid.development.net.zooplus.nl
 .v2profit.com
+.v2zn.xyz
 .v3-ad.ixigua.com
 .v34ffs.site
 .v3cdn.net
@@ -93406,6 +93425,7 @@ zzxosget.com
 .wackotracko.com
 .wacucmiy.net
 .wadauthy.net
+.wadqfaj.cn
 .wadsotch.com
 .waecobiyppbslb.com
 .waegesth.com
@@ -100018,6 +100038,7 @@ zzxosget.com
 .zqzxz.com
 .zrav2wkbrs.com
 .zrbl21.cn
+.zrbn.ltd
 .zrcir.com
 .zreder.com
 .zreluo.com
