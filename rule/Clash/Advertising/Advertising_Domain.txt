@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-09-26 02:31:36
+# UPDATED: 2022-09-27 02:34:02
 # DOMAIN: 14155
 # DOMAIN-KEYWORD: 77
-# DOMAIN-SUFFIX: 76933
+# DOMAIN-SUFFIX: 76952
 # IP-CIDR: 241
-# TOTAL: 91406
+# TOTAL: 91425
 ad.xy2013.cn
 ads.play.cbsi.video
 ads.reembed.com
@@ -14481,6 +14481,7 @@ opencloud.wostore.cn
 .1man1jar.org
 .1man2needles.com
 .1mp.mobi
+.1n4o.icu
 .1nimo.com
 .1p1eqpotato.com
 .1p3opxwwet.ru
@@ -14522,6 +14523,7 @@ opencloud.wostore.cn
 .1w73a5d.cn
 .1warie.com
 .1web.me
+.1wkg.cn
 .1wofaei.xyz
 .1xbet88vn.net
 .1xbetvn.com
@@ -14751,6 +14753,7 @@ opencloud.wostore.cn
 .3-mobiappu.com
 .300daytravel.com
 .300segundos.com
+.302y.fun
 .303marketplace.com
 .306842.com
 .307badb998ed.com
@@ -15231,6 +15234,7 @@ opencloud.wostore.cn
 .6598kn9gpf.ru
 .65a29ceed813bbca61.com
 .65daishua.cn
+.65fsgsv.com
 .65mjvw6i1z.com
 .65tgh.com
 .65vk1fba34.com
@@ -20710,7 +20714,6 @@ opencloud.wostore.cn
 .api.clickaine.com
 .api.crittercism.com
 .api.eu.amplitude.com
-.api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 .api.flocktory.com
 .api.fusepowered.com
 .api.fw.tv
@@ -26302,6 +26305,7 @@ opencloud.wostore.cn
 .cmblom.cn
 .cmbnmfolofubr.xyz
 .cmbpdk.cn
+.cmci5cape.icu
 .cmcre.fr
 .cmd368t.com
 .cmdsdkekfhavlv.xyz
@@ -28582,6 +28586,7 @@ opencloud.wostore.cn
 .daizi.love
 .daizoode.com
 .dajewoi.top
+.dajiafacai923.xyz
 .dakang-energy.com
 .dakeshi.top
 .dakic-ia-300.com
@@ -29288,6 +29293,7 @@ opencloud.wostore.cn
 .dgmaxinteractive.com
 .dgmjskjx.com
 .dgpcdn.org
+.dgrrvpl.cn
 .dgtauto.com
 .dgulden.ru
 .dgw7ae5vrovs7.cloudfront.net
@@ -32542,6 +32548,7 @@ opencloud.wostore.cn
 .ff.member.garenae.vn
 .ff.qichetansuo.com
 .ff5bd8d9f8df.com
+.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 .ffbrfjnhhf.com
 .ffcbynqble.xyz
 .ffesm.fr
@@ -33423,6 +33430,7 @@ opencloud.wostore.cn
 .fsyc.xyz
 .fszcxxzx.com
 .ft2.autonomycloud.com
+.ft8e.top
 .ftalymniyqmbuyg.com
 .ftblltrck.com
 .ftbpro.com
@@ -38477,6 +38485,7 @@ opencloud.wostore.cn
 .je8fn.com
 .jealouslacklesslackless.com
 .jeannemildconfusion.com
+.jeanrace.com
 .jeason.club
 .jebaziwhe.com
 .jebure.com
@@ -38636,6 +38645,7 @@ opencloud.wostore.cn
 .jingdingjy.top
 .jingshenhaixian.cn
 .jingteinv.com
+.jingtuliutongchu.work
 .jingyixuanstore.cn
 .jingyue.co
 .jinhaitun888.xyz
@@ -39962,6 +39972,7 @@ opencloud.wostore.cn
 .ksi2trk.com
 .ksiywrjwvkmat.com
 .ksjdkjh.ru
+.ksnoownmd.fun
 .kspotson.de
 .ksxb.ltd
 .ksxqqqqjyevy.com
@@ -46157,6 +46168,7 @@ opencloud.wostore.cn
 .odinstreamy.com
 .odiousbunny.com
 .odkbfdck.com
+.odkxgwl.cn
 .odnkcbcsacab.com
 .odnobi.ru
 .odonatainbowed.com
@@ -46255,6 +46267,7 @@ opencloud.wostore.cn
 .ofslakotha.com
 .oftheussi.one
 .ofvsruaqukye.xyz
+.ofvtpwu.cn
 .og-affiliate.com
 .ogaqgazu.com
 .ogbwqq.gkwtk.xyz
@@ -46938,6 +46951,7 @@ opencloud.wostore.cn
 .otneq.today
 .otnolabttmup.com
 .otnolatrnup.com
+.otoeew.xyz
 .otogkg.com
 .otomacotelugu.com
 .otoshiana.com
@@ -56354,6 +56368,7 @@ opencloud.wostore.cn
 .t0gkj99krb24.com
 .t0p0ff3rs.com
 .t1.clipkit.com
+.t1.xuefen.com.cn
 .t1g2.cn
 .t2lgo.com
 .t2zc6vo8zj2ch6sh6kvu5vq8cjz4iv8v2aj1ckjy8zktaj8vm6visk6als8l.me
@@ -56639,6 +56654,7 @@ opencloud.wostore.cn
 .tba4.cn
 .tbadseiepqrl.xyz
 .tbaffiliate.com
+.tbazhaheii.top
 .tbcconnect.ge
 .tbebestknives.fr
 .tberjonk.com
@@ -56996,6 +57012,7 @@ opencloud.wostore.cn
 .tfla.xyz
 .tfosrv.com
 .tfppp.com
+.tfptlgrw.live
 .tfqhmnexjjni.com
 .tfw73.online
 .tfzznclztl.com
@@ -61275,6 +61292,7 @@ opencloud.wostore.cn
 .vylmhkasl.xyz
 .vymhnxjyj.com
 .vyocqq.com
+.vyps.fun
 .vyrhxfi.cn
 .vyvxx.com
 .vz1m.com
@@ -61334,6 +61352,7 @@ opencloud.wostore.cn
 .wackeerd.com
 .wackotracko.com
 .wadauthy.net
+.wadqfaj.cn
 .waecobiyppbslb.com
 .waegesth.com
 .waesomeoutness.com

@@ -1,56 +1,85 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-09-26 02:32:23
-# DOMAIN: 10345
+# UPDATED: 2022-09-27 02:34:49
+# DOMAIN: 10352
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 90008
+# DOMAIN-SUFFIX: 90026
 # IP-CIDR: 242
-# TOTAL: 100859
-1n4o.icu
+# TOTAL: 100884
+3p-geo.yahoo.com
+3p-udc.yahoo.com
+3qpw.icu
 46186911.vtt
 80055404.vtt
 absurdapple.com
+adfox.yandex.ru
 adfstat.yandex.ru
 ads.yahoo.com
 ads.youtube.com
+adsdk.yandex.ru
+an.yandex.ru
 anxiousapples.com
+ap.frarychazan.com
 api.sec.miui.com
 app.ssp.yahoo.com
 appboy-images.com
+apple.www.letv.com
 applebarq.com
 applequan.com
 applescringe.com
+awaps.yandex.ru
 awsync.yandex.ru
+bats.video.yahoo.com
 beacon.search.yahoo.com
 beap-bc.yahoo.com
+bs.yandex.ru
+collector2c.zhihuishu.com
+cookiex.ngd.yahoo.com
 crypta.js
 d1stxfv94hrhia.cloudfront
 dmg-dd.oss-accelerate.aliyuncs.com
 fpb1.apple886.com
+ganon.yahoo.com
+geo.yahoo.com
+houhupsa.com
 https-apple.com
+i8x9.xyz
 iadsdk.apple.com
 ib.snssdk.com
-jingtuliutongchu.work
+img11.biyan8.com
+informer.yandex.ru
+jill.fc.yahoo.com
 jpaasne.e.shifen.com
+kd1s.icu
 log.strm.yandex.ru
+lslld.xyz
 marketingsolutions.yahoo.com
+mc.yandex.ru
 mediaappletree.com
 meitaolianmeng.ltd
 mm.n3w1d0ma1n
 mo.vlpyj.xy
-odkxgwl.cn
-otoeew.xyz
+nol.yahoo.com
 pr.comet.yahoo.com
+pv.sohu.com
+qcmm06.com
 rrf.fat1domain1
 shackapple.com
 stats.video.search.yahoo.com
 sub.powerapple.com
-t1.xuefen.com.cn
+supportmetrics.apple.com
+test.vast
 theapple.site
-vyps.fun
+tractekytyh.xyz
+ubazhaheit.top
+uclmad.com
+vedvvik.cn
+visit.webhosting.yahoo.com
 wondefulapplend.com
 wzjs1.oss-accelerate.aliyuncs.com
+xiaomaxitong.co
+yitongwl.cn
 youtube.local
 ad.xy2013.cn
 ads.play.cbsi.video
@@ -7371,6 +7400,7 @@ taozgpkjzpdtgr.com
 tapffdskgjr.com
 targetctracker.com
 tarteaucitron.ml
+tat.pandora.xiaomi.com
 tataget.ru
 tatami-solutions.com
 tauwhout.net
@@ -9599,7 +9629,6 @@ zzxlukodff.com
 zzxosget.com
 519332da.rtc.youme.im
 gvod.aiseejapp.atianqi.com
-tat.pandora.xiaomi.com
 204.scloud.lfengmobile.com
 2mdnsys.com
 39d83s.com
@@ -10310,32 +10339,13 @@ ymsdk.apkcar.com
 yume.com
 zen.sr
 10008919.pomelo.fashion
-3p-geo.yahoo.com
-3p-udc.yahoo.com
 ad.kddi-fs.com
-adfox.yandex.ru
-adsdk.yandex.ru
-an.yandex.ru
-apple.www.letv.com
-awaps.yandex.ru
-bats.video.yahoo.com
-bs.yandex.ru
 cdn1.skrill.com
-collector2c.zhihuishu.com
-cookiex.ngd.yahoo.com
-ffbbbdc6d3c353211fe2ba39c9f744cd.com
 fvf3adsna5qc.www.earthclassmail.com
-ganon.yahoo.com
-geo.yahoo.com
-informer.yandex.ru
 insight.olx.ba
-jill.fc.yahoo.com
 l.ctrl.blog
 log.kuwo.cn
-mc.yandex.ru
 metrics.apple.com
-nol.yahoo.com
-pv.sohu.com
 retcode.taobao.com
 securemetrics.apple.com
 securemetrics.experience.apple
@@ -10343,15 +10353,12 @@ securemvt.apple.com
 securemvt.apple.com.cn
 ssp.rambler.ru
 sugar.zhihu.com
-supportmetrics.apple.com
 t.nypost.com
-test.vast
 tms.hft.everyplate.com
 tms.hft.factor75.com
 tms.hft.greenchef.com
 tms.hft.hellofresh.com
 track.mrgugu.com
-visit.webhosting.yahoo.com
 .0-000.store
 .0.code.cotsta.ru
 .0001.best
@@ -10669,6 +10676,7 @@ visit.webhosting.yahoo.com
 .1man1jar.org
 .1man2needles.com
 .1mp.mobi
+.1n4o.icu
 .1nimo.com
 .1p1eqpotato.com
 .1p3opxwwet.ru
@@ -10710,6 +10718,7 @@ visit.webhosting.yahoo.com
 .1w73a5d.cn
 .1warie.com
 .1web.me
+.1wkg.cn
 .1wofaei.xyz
 .1xbet88vn.net
 .1xbetvn.com
@@ -10939,6 +10948,7 @@ visit.webhosting.yahoo.com
 .3-mobiappu.com
 .300daytravel.com
 .300segundos.com
+.302y.fun
 .303marketplace.com
 .306842.com
 .307badb998ed.com
@@ -11419,6 +11429,7 @@ visit.webhosting.yahoo.com
 .6598kn9gpf.ru
 .65a29ceed813bbca61.com
 .65daishua.cn
+.65fsgsv.com
 .65mjvw6i1z.com
 .65tgh.com
 .65vk1fba34.com
@@ -16631,7 +16642,6 @@ visit.webhosting.yahoo.com
 .api.calq.io
 .api.carrottrack.io
 .api.cazamba.com
-.api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 .api.fusepowered.com
 .api.fw.tv
 .api.gameofwhales.com
@@ -22125,6 +22135,7 @@ visit.webhosting.yahoo.com
 .cmblom.cn
 .cmbnmfolofubr.xyz
 .cmbpdk.cn
+.cmci5cape.icu
 .cmcre.fr
 .cmd368t.com
 .cmdsdkekfhavlv.xyz
@@ -24381,6 +24392,7 @@ visit.webhosting.yahoo.com
 .daizi.love
 .daizoode.com
 .dajewoi.top
+.dajiafacai923.xyz
 .dakang-energy.com
 .dakeshi.top
 .dakic-ia-300.com
@@ -25081,6 +25093,7 @@ visit.webhosting.yahoo.com
 .dgmaxinteractive.com
 .dgmjskjx.com
 .dgpcdn.org
+.dgrrvpl.cn
 .dgtauto.com
 .dgulden.ru
 .dgw7ae5vrovs7.cloudfront.net
@@ -28302,6 +28315,7 @@ visit.webhosting.yahoo.com
 .ff.member.garenae.vn
 .ff.qichetansuo.com
 .ff5bd8d9f8df.com
+.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 .ffbrfjnhhf.com
 .ffcbynqble.xyz
 .ffesm.fr
@@ -29174,6 +29188,7 @@ visit.webhosting.yahoo.com
 .fsyc.xyz
 .fszcxxzx.com
 .ft2.autonomycloud.com
+.ft8e.top
 .ftalymniyqmbuyg.com
 .ftblltrck.com
 .ftbpro.com
@@ -34174,6 +34189,7 @@ visit.webhosting.yahoo.com
 .je8fn.com
 .jealouslacklesslackless.com
 .jeannemildconfusion.com
+.jeanrace.com
 .jeason.club
 .jebaziwhe.com
 .jebure.com
@@ -34333,6 +34349,7 @@ visit.webhosting.yahoo.com
 .jingdingjy.top
 .jingshenhaixian.cn
 .jingteinv.com
+.jingtuliutongchu.work
 .jingyixuanstore.cn
 .jingyue.co
 .jinhaitun888.xyz
@@ -35651,6 +35668,7 @@ visit.webhosting.yahoo.com
 .ksi2trk.com
 .ksiywrjwvkmat.com
 .ksjdkjh.ru
+.ksnoownmd.fun
 .kspotson.de
 .ksxb.ltd
 .ksxqqqqjyevy.com
@@ -41791,6 +41809,7 @@ visit.webhosting.yahoo.com
 .odinstreamy.com
 .odiousbunny.com
 .odkbfdck.com
+.odkxgwl.cn
 .odnkcbcsacab.com
 .odnobi.ru
 .odonatainbowed.com
@@ -41889,6 +41908,7 @@ visit.webhosting.yahoo.com
 .ofslakotha.com
 .oftheussi.one
 .ofvsruaqukye.xyz
+.ofvtpwu.cn
 .og-affiliate.com
 .ogaqgazu.com
 .ogbwqq.gkwtk.xyz
@@ -42568,6 +42588,7 @@ visit.webhosting.yahoo.com
 .otneq.today
 .otnolabttmup.com
 .otnolatrnup.com
+.otoeew.xyz
 .otogkg.com
 .otomacotelugu.com
 .otoshiana.com
@@ -51883,6 +51904,7 @@ visit.webhosting.yahoo.com
 .t0gkj99krb24.com
 .t0p0ff3rs.com
 .t1.clipkit.com
+.t1.xuefen.com.cn
 .t1g2.cn
 .t2lgo.com
 .t2zc6vo8zj2ch6sh6kvu5vq8cjz4iv8v2aj1ckjy8zktaj8vm6visk6als8l.me
@@ -52164,6 +52186,7 @@ visit.webhosting.yahoo.com
 .tba4.cn
 .tbadseiepqrl.xyz
 .tbaffiliate.com
+.tbazhaheii.top
 .tbcconnect.ge
 .tbebestknives.fr
 .tberjonk.com
@@ -52519,6 +52542,7 @@ visit.webhosting.yahoo.com
 .tfla.xyz
 .tfosrv.com
 .tfppp.com
+.tfptlgrw.live
 .tfqhmnexjjni.com
 .tfw73.online
 .tfzznclztl.com
@@ -56540,6 +56564,7 @@ visit.webhosting.yahoo.com
 .vylmhkasl.xyz
 .vymhnxjyj.com
 .vyocqq.com
+.vyps.fun
 .vyrhxfi.cn
 .vyvxx.com
 .vz1m.com
@@ -56599,6 +56624,7 @@ visit.webhosting.yahoo.com
 .wackeerd.com
 .wackotracko.com
 .wadauthy.net
+.wadqfaj.cn
 .waecobiyppbslb.com
 .waegesth.com
 .waesomeoutness.com
@@ -73549,7 +73575,6 @@ visit.webhosting.yahoo.com
 .300ca0d0.space
 .301pk.com
 .302br.net
-.302y.fun
 .307.cc
 .30daychange.co
 .30edu.com.cn
@@ -73721,7 +73746,6 @@ visit.webhosting.yahoo.com
 .63kc.com
 .643108e7617ef.cdn.sohucs.com
 .6554.net
-.65fsgsv.com
 .6604.org
 .661291.com
 .6613167.cn
@@ -77846,7 +77870,6 @@ visit.webhosting.yahoo.com
 .dgemwx.whiteteak.com
 .dgkpzy.2ch2.net
 .dgmolb.irishjobs.ie
-.dgrrvpl.cn
 .dgstatic.jd.com
 .dh810.com
 .dh820.com
@@ -78127,6 +78150,7 @@ visit.webhosting.yahoo.com
 .ds-recommender.styria.hr
 .ds.haaretz.co.il
 .ds.mobadvent.com
+.ds9e.top
 .dsa-mfp.fengshows.cn
 .dsdsc.win
 .dsdydk.com
@@ -79125,7 +79149,6 @@ visit.webhosting.yahoo.com
 .fsbozl.dillards.com
 .fstsrv.com
 .fsugco.rcn.nl
-.ft8e.top
 .ftaysn.meinekette.de
 .ftp0118.info
 .ftpcontent.worldnow.com
@@ -80778,7 +80801,6 @@ visit.webhosting.yahoo.com
 .kriloff.ru
 .krpano.org
 .ks42zt.spec.fm
-.ksnoownmd.fun
 .ku6.com
 .kuaibaopay.com
 .kuaiboads.com
@@ -82985,7 +83007,6 @@ visit.webhosting.yahoo.com
 .oem.cnrghj.cn
 .offgate-app-phkr.com
 .ofnsv69.com
-.ofvtpwu.cn
 .ofwdvh.suntransfers.com
 .ogb2.biopur-leanature.fr
 .ogtrk.net
@@ -85191,6 +85212,7 @@ visit.webhosting.yahoo.com
 .sjv.io
 .skads.gxsky.com
 .skbnfa.filorga.com
+.skdbarh.cn
 .skeettools.com
 .skencituer.com
 .skink.madewithlove.com
@@ -86236,6 +86258,7 @@ visit.webhosting.yahoo.com
 .sslstats.canadapost-postescanada.ca
 .sslstats.postescanada-canadapost.ca
 .ssmr.sonynetwork.co.jp
+.ssnoownmb.fun
 .ssp-api.mobadvent.com
 .ssp.1nmob.com
 .ssp.indexmob.com
@@ -86244,6 +86267,7 @@ visit.webhosting.yahoo.com
 .ssp.tencentmusic.com
 .ssp.xiaomi.com
 .ssp1.kfadx.tech
+.sspghf.cn
 .sspsky.com
 .ssrj.net
 .sss.bxnms.com
@@ -87117,7 +87141,6 @@ visit.webhosting.yahoo.com
 .tawk.to
 .tb.turbocap.net
 .tb1u.com
-.tbazhaheii.top
 .tben.nnchangyi.com
 .tbm.snssdk.com
 .tbs.qq.com
@@ -87219,6 +87242,7 @@ visit.webhosting.yahoo.com
 .tetrack.qq.com
 .tevzas.autoscout24.fr
 .tf58.com
+.tfptlgrw.co
 .tfy.sswip.cn
 .tg.bwc178.com
 .tg.tebiezhuan.com
@@ -88410,7 +88434,6 @@ visit.webhosting.yahoo.com
 .waatch.gva.be
 .wabdb1.52pk.com
 .wabsgz.studocu.com
-.wadqfaj.cn
 .waguwagu.xyz
 .wahwahnetworks.com
 .wait8hurl.com
@@ -89203,6 +89226,7 @@ visit.webhosting.yahoo.com
 .yololike.space
 .you-just-won-prize.com
 .youa.net
+.youa2qudo.icu
 .youbora.com
 .youday.cn
 .youhuiguan.com
@@ -89467,6 +89491,7 @@ visit.webhosting.yahoo.com
 .zzhengyuli.com
 .zzhssy.cn
 .zzm.cn
+.zzpwwbf.cn
 .zzsdtzb.com
 .zzsqqx.shopjapan.co.jp
 .zzyanhushi.com

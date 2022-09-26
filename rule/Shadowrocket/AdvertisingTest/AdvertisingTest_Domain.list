@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-09-26 02:32:24
+# UPDATED: 2022-09-27 02:34:49
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 10345
+# DOMAIN: 10352
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 90008
+# DOMAIN-SUFFIX: 90026
 # IP-CIDR: 242
 # URL-REGEX: 301
-# TOTAL: 101160
+# TOTAL: 101185
 00-gov.cn
 0026645142c89aeb1.com
 00ae8b5a9c1d597.com
@@ -81,7 +81,6 @@
 1hanritten.com
 1jvd7f7w.top
 1loop.com
-1n4o.icu
 1q2w3.live
 1sen-pit-fan.com
 1yk851od.com
@@ -171,6 +170,7 @@
 3omb.com
 3p-geo.yahoo.com
 3p-udc.yahoo.com
+3qpw.icu
 3t7euflv.com
 3vlm.com
 3wnp9.ru
@@ -862,6 +862,7 @@ aoukclebpcb.com
 aovajfmsy.com
 aowmaijlvxdcs.com
 ap.dongqiudi.com
+ap.frarychazan.com
 ap.immomo.com
 apcugpxy.com
 apearmare.site
@@ -2913,7 +2914,6 @@ feyfjlpeexvg.com
 ff52e77ba517.com
 ffaamympgd.com
 ffaspwzfq.com
-ffbbbdc6d3c353211fe2ba39c9f744cd.com
 ffbook.cc
 ffbqnbdcrx.com
 ffhwzaenzoue.com
@@ -3755,6 +3755,7 @@ hotlinking.dosmil.imap.cc
 hotptp.com
 hotspot.cz
 houchosi.net
+houhupsa.com
 hourakob.net
 howtodoblog.com
 howubdgdt.com
@@ -3872,6 +3873,7 @@ i0s26ol9.com
 i401xox.com
 i568vc.cn
 i864ekhq.com
+i8x9.xyz
 iaatzkkqyv.com
 iadfjbrttvgn.com
 iadsdk.apple.com
@@ -4022,6 +4024,7 @@ img.srxjz.cn
 img.wusnz.cn
 img.xuwnz.cn
 img001.com
+img11.biyan8.com
 img2.pengfu.net
 imgdew.pw
 imgf.gade.suimeng.la
@@ -4365,7 +4368,6 @@ jikpijfebfflia.com
 jill.fc.yahoo.com
 jimxaqrpqbxldt.com
 jinfrfimajr.com
-jingtuliutongchu.work
 jioivnytpmam.com
 jipzvmzzycg.com
 jiqtqcojfezn.com
@@ -4592,6 +4594,7 @@ kcnbyecw.com
 kcnjwtaj.com
 kcpntbycuswz.com
 kcveufgl.com
+kd1s.icu
 kdcmgzgxears.com
 kdfumeftulzzpp.com
 kdluruaor.com
@@ -5088,6 +5091,7 @@ lsdgtifuqrwjax.com
 lseddehpo.com
 lsfjfoddezc.com
 lskzcjgerhzn.com
+lslld.xyz
 lslvclmasbv.com
 lslzdwmxvbxztr.com
 lsmxicydlj.com
@@ -5998,7 +6002,6 @@ odcnpmjgsxrqpr.com
 oddads.net
 odezwmru.com
 odhuvqrlntidxf.com
-odkxgwl.cn
 odlkdyoe.com
 odukhsymyua.com
 odwofgksbcyoh.com
@@ -6220,7 +6223,6 @@ otiqknmqyibci.com
 otkpegjvpyi.com
 otmonog.info
 otmyoesv.com
-otoeew.xyz
 otoxkqlivsqr.com
 otpyldlrygga.com
 otqhemtwoene.com
@@ -6810,6 +6812,7 @@ qbovhtdejygua.com
 qbpamfcntbprjw.com
 qbtfmtuixtmep.com
 qceixjlqe.com
+qcmm06.com
 qcnrblgdonypg.com
 qcsjgzxqcyhv.com
 qd.l02r3.cn
@@ -7998,7 +8001,6 @@ t.strk11.email
 t.strk12.email
 t.strk13.email
 t.tpctrust.com
-t1.xuefen.com.cn
 tab20.com
 tabex.sopharma.bg
 tacastas.com
@@ -8279,6 +8281,7 @@ tracki112.com
 tracklab.club
 trackpromotion.net
 tracktor.co.uk
+tractekytyh.xyz
 trader.erosdlz.com
 tradineseveni.club
 traff1.com
@@ -8413,6 +8416,7 @@ uaiowafphhb.com
 uaolighevmjy.com
 uaqcfkzqqnuxc.com
 uayzbioy.com
+ubazhaheit.top
 ubazpxeafwjr.com
 ubdudsdfcll.com
 ubermedia.com
@@ -8439,6 +8443,7 @@ uccmprpzju.com
 ucdc-upaas.uc.cn
 uchiytqiuir.com
 uckctkuvwjms.com
+uclmad.com
 uclrgm.com
 ucozssymgw.com
 ucretius-ada.com
@@ -8779,6 +8784,7 @@ vdvaazkk.com
 vdztrack.com
 veads-cdn-e1.ve.com
 vedohd.org
+vedvvik.cn
 vee24.com
 veehdmymwvvexv.com
 veejooty.com
@@ -9011,7 +9017,6 @@ vxzudzbjvtegu.com
 vyagpffxvs.com
 vyatdrilrtgeh.com
 vygekimhrfto.com
-vyps.fun
 vysgpewbyfbiob.com
 vyykulowdu.com
 vzbbzzasjtn.com
@@ -9613,6 +9618,7 @@ xhkuhzqvtcadz.com
 xhlrlyygx.com
 xhstxnpemardz.com
 xiamiss.wap.xsbiquge.com
+xiaomaxitong.co
 xiaomiaoquan.com
 xibnqcksoax.com
 xicaxique.com.br
@@ -9874,6 +9880,7 @@ yieldify-static-files.s3.amazonaws.com
 yiopqbbmugak.com
 yiqyefznxc.com
 yisscbyq.com
+yitongwl.cn
 yivzznzrujt.com
 yjctwdeuz.com
 yjfhadfc.com
@@ -11169,6 +11176,7 @@ zzxosget.com
 .1mob.com
 .1mp.mobi
 .1mpi.com
+.1n4o.icu
 .1nimo.com
 .1o1camshow.com
 .1o26.com
@@ -11224,6 +11232,7 @@ zzxosget.com
 .1w73a5d.cn
 .1warie.com
 .1web.me
+.1wkg.cn
 .1wofaei.xyz
 .1worldonline.com
 .1x26q3.cn
@@ -21634,7 +21643,6 @@ zzxosget.com
 .api.edgeoffer.microsoft.com
 .api.elliehuxtable.com
 .api.engager.ecbsn.com
-.api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 .api.fusepowered.com
 .api.fw.tv
 .api.gameofwhales.com
@@ -30471,6 +30479,7 @@ zzxosget.com
 .cmbnmfolofubr.xyz
 .cmbpdk.cn
 .cmcdl.cmcm.com
+.cmci5cape.icu
 .cmcore.com
 .cmcre.fr
 .cmd368t.com
@@ -34233,6 +34242,7 @@ zzxosget.com
 .daizoode.com
 .dajean.com
 .dajewoi.top
+.dajiafacai923.xyz
 .dajiyuan.com
 .dajiyuan.org
 .dakang-energy.com
@@ -37081,6 +37091,7 @@ zzxosget.com
 .ds2.independer.nl
 .ds4sw9va5hc.com
 .ds88pc0kw6cvc.cloudfront.net
+.ds9e.top
 .dsa-mfp.fengshows.cn
 .dsadas.hydp188.com
 .dsaeerf.com
@@ -41517,6 +41528,7 @@ zzxosget.com
 .ffa9.cn
 .ffanq.com
 .ffb.feihuo.com
+.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 .ffbrfjnhhf.com
 .ffcbynqble.xyz
 .ffconf.ecbsn.com
@@ -51435,6 +51447,7 @@ zzxosget.com
 .je8fn.com
 .jealouslacklesslackless.com
 .jeannemildconfusion.com
+.jeanrace.com
 .jeason.club
 .jebadu.com
 .jebaziwhe.com
@@ -51730,6 +51743,7 @@ zzxosget.com
 .jingoulong.cn
 .jingshenhaixian.cn
 .jingteinv.com
+.jingtuliutongchu.work
 .jingwei.net
 .jingxiangyalvji.cn
 .jingyixuanstore.cn
@@ -65374,6 +65388,7 @@ zzxosget.com
 .odiousbunny.com
 .odkbfdck.com
 .odkvrg.pedrodelhierro.com
+.odkxgwl.cn
 .odnkcbcsacab.com
 .odnobi.ru
 .odonatainbowed.com
@@ -66588,6 +66603,7 @@ zzxosget.com
 .otneq.today
 .otnolabttmup.com
 .otnolatrnup.com
+.otoeew.xyz
 .otogkg.com
 .otomacotelugu.com
 .otoshiana.com
@@ -78303,6 +78319,7 @@ zzxosget.com
 .skbao.co
 .skbnfa.filorga.com
 .skcrtxr.com
+.skdbarh.cn
 .skeettools.com
 .skelaxin.1.p2l.info
 .skelaxin.3.p2l.info
@@ -81936,6 +81953,7 @@ zzxosget.com
 .ssmr2.so-net.ne.jp
 .ssmuse1314.cn
 .ssmyinteuk.com
+.ssnoownmb.fun
 .sso.canada.com
 .ssorsophicla.info
 .ssp-ad.momento.dev
@@ -81968,6 +81986,7 @@ zzxosget.com
 .ssp1.kfadx.tech
 .sspapi-prd.samsungrs.com
 .sspervicearg.com
+.sspghf.cn
 .ssphwy.com
 .sspsky.com
 .ssqualismother.info
@@ -85155,6 +85174,7 @@ zzxosget.com
 .t1.discover.flashnews.com.au
 .t1.stadiumgoods.com
 .t1.trex.media
+.t1.xuefen.com.cn
 .t10.baidu.com
 .t11.baidu.com
 .t12.baidu.com
@@ -86318,6 +86338,8 @@ zzxosget.com
 .tfncnhd8p95c.com
 .tfosrv.com
 .tfppp.com
+.tfptlgrw.co
+.tfptlgrw.live
 .tfqhmnexjjni.com
 .tfssl.caohua.com
 .tfw73.online
@@ -93267,6 +93289,7 @@ zzxosget.com
 .vymhnxjyj.com
 .vyocqq.com
 .vyplzy.job-medley.com
+.vyps.fun
 .vyrhxfi.cn
 .vytomi.gotrackier.com
 .vyule.com
@@ -98534,6 +98557,7 @@ zzxosget.com
 .you6ka.cn
 .you88.vin
 .youa.net
+.youa2qudo.icu
 .youappi.com
 .youaresogay.com
 .youbora.com
@@ -100337,6 +100361,7 @@ zzxosget.com
 .zzmmkj.com
 .zzmtfz.com
 .zzpush.58.com
+.zzpwwbf.cn
 .zzpzero.com
 .zzqqhb.com
 .zzrcz.com
